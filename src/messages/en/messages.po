@@ -1,0 +1,14 @@
+#: Module.php
+msgctxt "simialbi/google/notifications"
+msgid "The \"client\" component is mandatory"
+msgstr "The \"client\" component is mandatory"
+
+#: components/GoogleApiClient.php
+msgctxt "simialbi/google/notifications"
+msgid "The \"credentials\" param is mandatory"
+msgstr "The \"credentials\" param is mandatory"
+
+#: controllers/AnalyticsController.php
+msgctxt "simialbi/google/notifications"
+msgid "The \"analytics_id\" param is mandatory"
+msgstr "The \"analytics_id\" param is mandatory"
